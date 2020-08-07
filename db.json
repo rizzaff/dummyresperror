@@ -1,0 +1,7 @@
+{
+  "digilend": {
+    "code": 404,
+    "errors": [],
+    "message": "fileToken not found"
+  }
+}
